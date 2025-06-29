@@ -2,7 +2,7 @@
   "name": "my-room-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://<your-github-username>.github.io/my-room-app-react",
+  "homepage": "https://Vbedre1432.github.io/my-room-app-react",
   "dependencies": {
     "@capacitor/cli": "^6.1.0",
     "@capacitor/core": "^6.1.0",
